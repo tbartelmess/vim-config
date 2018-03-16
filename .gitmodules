@@ -19,3 +19,9 @@
 [submodule "pack/tbartelmess/start/vim-fugitive"]
 	path = pack/tbartelmess/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/tbartelmess/start/vim-hclfmt"]
+	path = pack/tbartelmess/start/vim-hclfmt
+	url = https://github.com/fatih/vim-hclfmt.git
+[submodule "pack/tbartelmess/start/vim-hashicorp-tools"]
+	path = pack/tbartelmess/start/vim-hashicorp-tools
+	url = https://github.com/hashivim/vim-hashicorp-tools.git
