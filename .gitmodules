@@ -16,12 +16,18 @@
 [submodule "pack/plugins/start/vim-devicons"]
 	path = pack/plugins/start/vim-devicons
 	url = https://github.com/ryanoasis/vim-devicons
-[submodule "pack/tbartelmess/start/vim-fugitive"]
-	path = pack/tbartelmess/start/vim-fugitive
+[submodule "pack/plugins/start/vim-fugitive"]
+	path = pack/plugins/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
-[submodule "pack/tbartelmess/start/vim-hclfmt"]
-	path = pack/tbartelmess/start/vim-hclfmt
+[submodule "pack/plugins/start/vim-hclfmt"]
+	path = pack/plugins/start/vim-hclfmt
 	url = https://github.com/fatih/vim-hclfmt.git
-[submodule "pack/tbartelmess/start/vim-hashicorp-tools"]
+[submodule "pack/plugins/start/vim-hashicorp-tools"]
 	path = pack/tbartelmess/start/vim-hashicorp-tools
 	url = https://github.com/hashivim/vim-hashicorp-tools.git
+[submodule "pack/plugins/start/vim-hashicorp-tools.git"]
+	path = pack/plugins/start/vim-hashicorp-tools.git
+	url = https://github.com/hashivim/vim-hashicorp-tools.git
+[submodule "pack/plugins/start/vim-hcl"]
+	path = pack/plugins/start/vim-hcl
+	url = https://github.com/b4b4r07/vim-hcl.git
