@@ -10,9 +10,6 @@
 [submodule "pack/plugins/start/nerdtree"]
 	path = pack/plugins/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "pack/plugins/start/syntastic"]
-	path = pack/plugins/start/syntastic
-	url = https://github.com/vim-syntastic/syntastic.git
 [submodule "pack/plugins/start/vim-devicons"]
 	path = pack/plugins/start/vim-devicons
 	url = https://github.com/ryanoasis/vim-devicons
@@ -22,12 +19,36 @@
 [submodule "pack/plugins/start/vim-hclfmt"]
 	path = pack/plugins/start/vim-hclfmt
 	url = https://github.com/fatih/vim-hclfmt.git
-[submodule "pack/plugins/start/vim-hashicorp-tools"]
-	path = pack/tbartelmess/start/vim-hashicorp-tools
-	url = https://github.com/hashivim/vim-hashicorp-tools.git
-[submodule "pack/plugins/start/vim-hashicorp-tools.git"]
-	path = pack/plugins/start/vim-hashicorp-tools.git
-	url = https://github.com/hashivim/vim-hashicorp-tools.git
 [submodule "pack/plugins/start/vim-hcl"]
 	path = pack/plugins/start/vim-hcl
 	url = https://github.com/b4b4r07/vim-hcl.git
+[submodule "pack/plugins/start/vim-go"]
+	path = pack/plugins/start/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "pack/plugins/start/rust.vim"]
+	path = pack/plugins/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
+[submodule "pack/plugins/start/async.vim"]
+	path = pack/plugins/start/async.vim
+	url = https://github.com/prabirshrestha/async.vim.git
+[submodule "pack/plugins/start/asyncomplete-lsp.vim"]
+	path = pack/plugins/start/asyncomplete-lsp.vim
+	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim.git
+[submodule "pack/plugins/start/asyncomplete.vim"]
+	path = pack/plugins/start/asyncomplete.vim
+	url = https://github.com/prabirshrestha/asyncomplete.vim.git
+[submodule "pack/plugins/start/ctrlp.vim"]
+	path = pack/plugins/start/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "pack/plugins/start/nerdcommenter"]
+	path = pack/plugins/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "pack/plugins/start/vim-ember-hbs"]
+	path = pack/plugins/start/vim-ember-hbs
+	url = https://github.com/joukevandermaas/vim-ember-hbs.git
+[submodule "pack/plugins/start/vim-lsp"]
+	path = pack/plugins/start/vim-lsp
+	url = https://github.com/prabirshrestha/vim-lsp.git
+[submodule "pack/plugins/start/vim-lsp-javascript"]
+	path = pack/plugins/start/vim-lsp-javascript
+	url = https://github.com/ryanolsonx/vim-lsp-javascript.git
